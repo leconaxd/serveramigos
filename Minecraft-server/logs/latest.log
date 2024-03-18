@@ -1,0 +1,127 @@
+[05:03:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:03:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:oco:entities/merfolk_pearl - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:scute
+[05:03:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:oco:entities/merfolk_core - Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomModelData:13370012,tag:{Tags:[oco.helmet]},Enchantments:[{id:depth_strider,lvl:3}],HideFlags:1}"}; Not a json array: {"function":"minecraft:set_attributes","modifiers":[{"attribute":"minecraft:generic.armor","name":"","amount":2,"operation":"addition","slot":"head"}]}
+[05:03:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:oco:entities/kraken - Not a json array: {"function":"minecraft:set_attributes","modifiers":[{"attribute":"minecraft:generic.attack_damage","name":"","amount":2,"operation":"addition","slot":"offhand"}]}; Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomModelData:13370014,Tags:[oco.core]}"}
+[05:03:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:oco:entities/jelly_jar - Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomModelData:1337009,EntityTag:{Tags:[oco.jellyjar.place]}}"}
+[05:03:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:oco:entities/anglerfish - Not a json array: {"function":"minecraft:set_nbt","tag":"{Tags:[oco.bulb],CustomModelData:13370011}"}
+[05:03:38] [ServerMain/INFO]: Loaded 7 recipes
+[05:03:38] [ServerMain/INFO]: Loaded 1272 advancements
+[05:03:39] [Server thread/INFO]: Starting minecraft server version 24w10a
+[05:03:39] [Server thread/INFO]: Loading properties
+[05:03:39] [Server thread/INFO]: Default game type: SURVIVAL
+[05:03:39] [Server thread/INFO]: Generating keypair
+[05:03:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:03:39] [Server thread/INFO]: Using epoll channel type
+[05:03:39] [Server thread/INFO]: Preparing level "partida 2023"
+[05:03:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:03:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:03:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:03:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:03:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:03:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:03:45] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[05:03:45] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[05:03:45] [Server thread/INFO]: Time elapsed: 3849 ms
+[05:03:45] [Server thread/INFO]: Done (6.240s)! For help, type "help"
+[05:03:51] [User Authenticator #1/INFO]: UUID of player TrollMasterGod is f14e0718-3894-478c-974b-aca604617705
+[05:03:53] [Server thread/INFO]: TrollMasterGod[/[0:0:0:0:0:0:0:1%0]:54908] logged in with entity id 113 at (23.25726649303952, 82.5, -37.92609213240062)
+[05:03:53] [Server thread/INFO]: TrollMasterGod joined the game
+[05:03:53] [User Authenticator #2/INFO]: UUID of player xX_k1ngslaywr_Xx is 2ac96d3a-2377-4cba-98a5-08887409112c
+[05:03:54] [Server thread/INFO]: xX_k1ngslaywr_Xx[/[0:0:0:0:0:0:0:1%0]:60202] logged in with entity id 412 at (25.333882642428293, 82.0, -36.596186104890585)
+[05:03:54] [Server thread/INFO]: xX_k1ngslaywr_Xx joined the game
+[05:03:56] [Server thread/INFO]: Named entity cdh['jellyfish'/676, l='ServerLevel[partida 2023]', x=-41.50, y=58.00, z=-82.50] died: jellyfish suffocated in a wall
+[05:03:56] [Server thread/INFO]: Named entity cdh['jellyfish'/696, l='ServerLevel[partida 2023]', x=-41.50, y=58.00, z=-84.50] died: jellyfish suffocated in a wall
+[05:03:56] [Server thread/INFO]: Named entity cdh['jellyfish'/711, l='ServerLevel[partida 2023]', x=-41.50, y=58.00, z=-80.50] died: jellyfish suffocated in a wall
+[05:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[05:07:29] [Server thread/INFO]: xX_k1ngslaywr_Xx fell from a high place
+[05:08:35] [Server thread/INFO]: Named entity cdh['jellyfish'/6453, l='ServerLevel[partida 2023]', x=-139.54, y=53.36, z=68.25] died: jellyfish suffocated in a wall
+[05:08:35] [Server thread/INFO]: Named entity cdh['jellyfish'/6463, l='ServerLevel[partida 2023]', x=-141.54, y=53.36, z=70.25] died: jellyfish suffocated in a wall
+[05:08:35] [Server thread/INFO]: Named entity cdh['jellyfish'/6478, l='ServerLevel[partida 2023]', x=-143.54, y=53.36, z=66.25] died: jellyfish suffocated in a wall
+[05:08:35] [Server thread/INFO]: Named entity cdh['jellyfish'/6488, l='ServerLevel[partida 2023]', x=-139.54, y=53.36, z=70.25] died: jellyfish suffocated in a wall
+[05:12:33] [Server thread/INFO]: Villager cjn['Villager'/48, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[05:14:44] [Server thread/INFO]: Named entity cdh['jellyfish'/15453, l='ServerLevel[partida 2023]', x=-116.50, y=58.00, z=-4.50] died: jellyfish suffocated in a wall
+[05:14:44] [Server thread/INFO]: Named entity cdh['jellyfish'/15478, l='ServerLevel[partida 2023]', x=-114.50, y=58.00, z=-4.50] died: jellyfish suffocated in a wall
+[05:15:28] [Server thread/INFO]: Named entity cdh['jellyfish'/15912, l='ServerLevel[partida 2023]', x=-92.50, y=58.00, z=-39.50] died: jellyfish suffocated in a wall
+[05:18:03] [Server thread/INFO]: <TrollMasterGod> gay
+[05:18:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[05:18:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[05:18:16] [Server thread/INFO]: <TrollMasterGod> eso de mutear es muy gay
+[05:24:45] [Server thread/INFO]: Named entity ces['seahorse'/10320, l='ServerLevel[partida 2023]', x=-77.47, y=56.93, z=-68.40] died: seahorse suffocated in a wall
+[05:25:20] [Server thread/INFO]: Villager cjn['Villager'/49, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[05:29:57] [Server thread/INFO]: Named entity cdh['jellyfish'/26307, l='ServerLevel[partida 2023]', x=-56.99, y=57.70, z=-83.54] died: jellyfish was slain by Drowned
+[05:32:10] [Server thread/INFO]: Villager cjn['Villager'/54, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[05:33:30] [Server thread/INFO]: <xX_k1ngslaywr_Xx> XDDDDDD
+[05:37:06] [Server thread/INFO]: Named entity ces['seahorse'/30782, l='ServerLevel[partida 2023]', x=-57.40, y=53.80, z=-103.60] died: seahorse suffocated in a wall
+[05:37:20] [Server thread/WARN]: TrollMasterGod moved wrongly!
+[05:39:57] [Server thread/INFO]: Named entity cdh['jellyfish'/33151, l='ServerLevel[partida 2023]', x=-55.40, y=52.00, z=-102.60] died: jellyfish suffocated in a wall
+[05:39:57] [Server thread/INFO]: Named entity cdh['jellyfish'/33166, l='ServerLevel[partida 2023]', x=-57.40, y=52.00, z=-104.60] died: jellyfish suffocated in a wall
+[05:39:57] [Server thread/INFO]: Named entity cdh['jellyfish'/33171, l='ServerLevel[partida 2023]', x=-55.40, y=52.00, z=-104.60] died: jellyfish suffocated in a wall
+[05:39:57] [Server thread/INFO]: Named entity cdh['jellyfish'/33186, l='ServerLevel[partida 2023]', x=-55.40, y=52.00, z=-100.60] died: jellyfish suffocated in a wall
+[05:41:02] [Server thread/INFO]: Named entity cdh['jellyfish'/33861, l='ServerLevel[partida 2023]', x=-54.50, y=54.00, z=-102.50] died: jellyfish suffocated in a wall
+[05:41:03] [Server thread/INFO]: Named entity ces['seahorse'/33723, l='ServerLevel[partida 2023]', x=-54.50, y=-152.75, z=-56.50] died: seahorse fell out of the world
+[05:41:27] [Server thread/INFO]: Villager cjn['Librarian'/62, l='ServerLevel[partida 2023]', x=20.20, y=70.18, z=36.52] died, message: 'Librarian was slain by Zombie'
+[05:41:46] [Server thread/INFO]: Named entity ces['seahorse'/33622, l='ServerLevel[partida 2023]', x=-64.01, y=61.61, z=-55.23] died: seahorse suffocated in a wall
+[05:42:40] [Server thread/INFO]: Named entity ces['seahorse'/19371, l='ServerLevel[partida 2023]', x=-75.40, y=49.71, z=-67.16] died: seahorse suffocated in a wall
+[05:42:53] [Server thread/INFO]: Villager cjn['Villager'/50, l='ServerLevel[partida 2023]', x=4.66, y=71.00, z=16.43] died, message: 'Villager was slain by Zombie'
+[05:45:10] [Server thread/INFO]: Villager cjn['Villager'/51, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[05:47:54] [Server thread/INFO]: Named entity cdh['jellyfish'/39208, l='ServerLevel[partida 2023]', x=-80.60, y=55.02, z=-60.12] died: jellyfish suffocated in a wall
+[05:47:54] [Server thread/INFO]: Named entity cdh['jellyfish'/39218, l='ServerLevel[partida 2023]', x=-78.60, y=55.02, z=-62.12] died: jellyfish suffocated in a wall
+[05:47:55] [Server thread/INFO]: Named entity cdh['jellyfish'/39228, l='ServerLevel[partida 2023]', x=-80.60, y=55.02, z=-62.12] died: jellyfish suffocated in a wall
+[05:47:55] [Server thread/INFO]: Named entity cdh['jellyfish'/39233, l='ServerLevel[partida 2023]', x=-80.60, y=55.02, z=-58.12] died: jellyfish suffocated in a wall
+[05:53:01] [Server thread/INFO]: Named entity ces['seahorse'/44085, l='ServerLevel[partida 2023]', x=-145.31, y=59.00, z=99.40] died: seahorse suffocated in a wall
+[05:53:13] [Server thread/INFO]: Named entity cdh['jellyfish'/46036, l='ServerLevel[partida 2023]', x=-42.50, y=60.00, z=-70.50] died: jellyfish suffocated in a wall
+[05:53:13] [Server thread/INFO]: Named entity cdh['jellyfish'/46071, l='ServerLevel[partida 2023]', x=-42.50, y=60.00, z=-68.50] died: jellyfish suffocated in a wall
+[05:54:55] [Server thread/INFO]: Named entity ces['seahorse'/47036, l='ServerLevel[partida 2023]', x=-95.88, y=-169.19, z=-17.92] died: seahorse fell out of the world
+[05:57:12] [Server thread/INFO]: TrollMasterGod lost connection: Disconnected
+[05:57:12] [Server thread/INFO]: TrollMasterGod left the game
+[05:57:43] [Server thread/INFO]: Named entity ces['seahorse'/46908, l='ServerLevel[partida 2023]', x=-97.91, y=61.23, z=-53.60] died: seahorse suffocated in a wall
+[05:58:58] [Server thread/INFO]: Named entity cdh['jellyfish'/48119, l='ServerLevel[partida 2023]', x=-59.58, y=59.47, z=-68.98] died: jellyfish was slain by Drowned
+[05:59:14] [Server thread/INFO]: Named entity cdh['jellyfish'/48139, l='ServerLevel[partida 2023]', x=-56.59, y=59.03, z=-67.85] died: jellyfish was slain by Drowned
+[06:04:27] [Server thread/INFO]: Villager cjn['Villager'/53, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:10:20] [Server thread/INFO]: Named entity ces['seahorse'/57419, l='ServerLevel[partida 2023]', x=-50.50, y=-139.00, z=-65.50] died: seahorse fell out of the world
+[06:12:02] [Server thread/INFO]: Villager cjn['Villager'/11365, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:13:10] [Server thread/INFO]: Villager cjn['Villager'/20108, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:15:48] [Server thread/INFO]: Named entity ces['seahorse'/10015, l='ServerLevel[partida 2023]', x=-74.76, y=50.71, z=-40.65] died: seahorse suffocated in a wall
+[06:16:22] [Server thread/INFO]: Named entity ces['seahorse'/60120, l='ServerLevel[partida 2023]', x=-59.50, y=-142.20, z=-51.50] died: seahorse fell out of the world
+[06:16:29] [Server thread/INFO]: Named entity cdh['jellyfish'/61638, l='ServerLevel[partida 2023]', x=-63.05, y=56.82, z=-49.22] died: jellyfish was slain by anglerfish
+[06:16:29] [Server thread/INFO]: Named entity ces['seahorse'/61535, l='ServerLevel[partida 2023]', x=-85.86, y=51.80, z=-28.95] died: seahorse suffocated in a wall
+[06:16:38] [Server thread/INFO]: Named entity cdh['jellyfish'/61678, l='ServerLevel[partida 2023]', x=-62.90, y=57.99, z=-46.91] died: jellyfish was slain by anglerfish
+[06:18:53] [Server thread/INFO]: Villager cjn['Villager'/27995, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:21:09] [Server thread/INFO]: Named entity cdh['jellyfish'/66167, l='ServerLevel[partida 2023]', x=-40.83, y=61.09, z=-72.74] died: jellyfish suffocated in a wall
+[06:21:09] [Server thread/INFO]: Named entity cdh['jellyfish'/66177, l='ServerLevel[partida 2023]', x=-42.83, y=61.09, z=-70.74] died: jellyfish suffocated in a wall
+[06:21:09] [Server thread/INFO]: Named entity cdh['jellyfish'/66187, l='ServerLevel[partida 2023]', x=-40.83, y=61.09, z=-74.74] died: jellyfish suffocated in a wall
+[06:21:09] [Server thread/INFO]: Named entity cdh['jellyfish'/66202, l='ServerLevel[partida 2023]', x=-40.83, y=61.09, z=-70.74] died: jellyfish suffocated in a wall
+[06:26:01] [Server thread/INFO]: Villager cjn['Villager'/35124, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:29:26] [Server thread/INFO]: Named entity cdh['jellyfish'/73275, l='ServerLevel[partida 2023]', x=-53.05, y=60.48, z=-81.00] died: jellyfish was slain by anglerfish
+[06:29:29] [Server thread/INFO]: Named entity cdh['jellyfish'/73235, l='ServerLevel[partida 2023]', x=-50.51, y=57.57, z=-82.99] died: jellyfish was slain by anglerfish
+[06:29:33] [Server thread/INFO]: Named entity ces['seahorse'/10081, l='ServerLevel[partida 2023]', x=-77.60, y=52.80, z=-24.40] died: seahorse suffocated in a wall
+[06:29:35] [Server thread/INFO]: Named entity cdh['jellyfish'/73240, l='ServerLevel[partida 2023]', x=-50.15, y=59.37, z=-86.74] died: jellyfish was slain by anglerfish
+[06:29:36] [Server thread/INFO]: Named entity cdh['jellyfish'/73270, l='ServerLevel[partida 2023]', x=-51.72, y=62.42, z=-85.05] died: jellyfish was slain by anglerfish
+[06:31:14] [Server thread/INFO]: Named entity ces['seahorse'/32193, l='ServerLevel[partida 2023]', x=-58.23, y=49.07, z=-76.20] died: seahorse suffocated in a wall
+[06:31:14] [Server thread/INFO]: Named entity ces['seahorse'/10375, l='ServerLevel[partida 2023]', x=-50.37, y=52.80, z=-60.12] died: seahorse suffocated in a wall
+[06:31:15] [Server thread/INFO]: Named entity ces['seahorse'/63876, l='ServerLevel[partida 2023]', x=-55.27, y=61.92, z=-53.71] died: seahorse suffocated in a wall
+[06:32:25] [Server thread/INFO]: Named entity ces['seahorse'/67545, l='ServerLevel[partida 2023]', x=-67.09, y=-167.68, z=-59.54] died: seahorse fell out of the world
+[06:32:40] [Server thread/INFO]: Named entity ces['seahorse'/54812, l='ServerLevel[partida 2023]', x=-61.78, y=50.80, z=-55.98] died: seahorse suffocated in a wall
+[06:32:40] [Server thread/INFO]: Named entity ces['seahorse'/75348, l='ServerLevel[partida 2023]', x=-46.80, y=50.80, z=-97.65] died: seahorse suffocated in a wall
+[06:32:42] [Server thread/INFO]: Named entity ces['seahorse'/10474, l='ServerLevel[partida 2023]', x=-48.83, y=58.80, z=-59.08] died: seahorse suffocated in a wall
+[06:38:37] [Server thread/INFO]: Villager cjn['Villager'/50871, l='ServerLevel[partida 2023]', x=23.70, y=67.00, z=39.70] died, message: 'Villager was squished too much'
+[06:40:50] [Server thread/INFO]: Named entity ces['seahorse'/57289, l='ServerLevel[partida 2023]', x=-43.44, y=54.80, z=-92.05] died: seahorse suffocated in a wall
+[06:46:22] [Server thread/INFO]: Named entity cdh['jellyfish'/86950, l='ServerLevel[partida 2023]', x=-51.03, y=54.67, z=-93.73] died: jellyfish was slain by Drowned
+[06:49:44] [Server thread/INFO]: Named entity cdh['jellyfish'/88953, l='ServerLevel[partida 2023]', x=-64.84, y=60.31, z=-80.19] died: jellyfish was slain by Drowned
+[06:50:18] [Server thread/INFO]: Named entity cdh['jellyfish'/89248, l='ServerLevel[partida 2023]', x=-47.50, y=53.00, z=-89.50] died: jellyfish suffocated in a wall
+[06:50:19] [Server thread/INFO]: Named entity ces['seahorse'/74908, l='ServerLevel[partida 2023]', x=-55.91, y=49.32, z=-84.09] died: seahorse suffocated in a wall
+[06:50:20] [Server thread/INFO]: Named entity ces['seahorse'/10451, l='ServerLevel[partida 2023]', x=-49.66, y=-174.71, z=-91.46] died: seahorse fell out of the world
+[06:50:20] [Server thread/INFO]: Named entity ces['seahorse'/80316, l='ServerLevel[partida 2023]', x=-49.48, y=-174.71, z=-91.59] died: seahorse fell out of the world
+[06:52:52] [Server thread/INFO]: Named entity cdh['jellyfish'/90015, l='ServerLevel[partida 2023]', x=-48.45, y=56.39, z=-92.29] died: jellyfish was slain by Drowned
+[06:53:01] [Server thread/INFO]: Named entity cdh['jellyfish'/89985, l='ServerLevel[partida 2023]', x=-47.76, y=55.01, z=-94.50] died: jellyfish was slain by Drowned
+[06:53:14] [Server thread/INFO]: Named entity cdh['jellyfish'/89995, l='ServerLevel[partida 2023]', x=-46.40, y=55.04, z=-100.27] died: jellyfish was slain by Drowned
+[06:53:15] [Server thread/INFO]: Named entity cdh['jellyfish'/90005, l='ServerLevel[partida 2023]', x=-49.39, y=55.22, z=-98.34] died: jellyfish was slain by Drowned
+[06:53:16] [Server thread/INFO]: Named entity cdh['jellyfish'/89990, l='ServerLevel[partida 2023]', x=-48.64, y=56.95, z=-97.20] died: jellyfish was slain by Drowned
+[06:54:51] [Server thread/INFO]: Named entity cdh['jellyfish'/90775, l='ServerLevel[partida 2023]', x=-43.14, y=56.91, z=-92.10] died: jellyfish suffocated in a wall
+[06:54:51] [Server thread/INFO]: Named entity cdh['jellyfish'/90795, l='ServerLevel[partida 2023]', x=-43.14, y=56.91, z=-94.10] died: jellyfish suffocated in a wall
+[06:54:51] [Server thread/INFO]: Named entity cdh['jellyfish'/90810, l='ServerLevel[partida 2023]', x=-43.14, y=56.91, z=-90.10] died: jellyfish suffocated in a wall
+[06:57:13] [Server thread/INFO]: Named entity ces['seahorse'/42675, l='ServerLevel[partida 2023]', x=-118.52, y=57.41, z=-13.54] died: seahorse suffocated in a wall
+[06:57:54] [Server thread/INFO]: Villager cjn['Villager'/40, l='ServerLevel[partida 2023]', x=23.30, y=67.00, z=39.30] died, message: 'Villager was squished too much'
+[07:00:55] [Server thread/INFO]: xX_k1ngslaywr_Xx lost connection: Disconnected
+[07:00:55] [Server thread/INFO]: xX_k1ngslaywr_Xx left the game
